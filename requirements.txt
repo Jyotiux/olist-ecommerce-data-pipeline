@@ -1,0 +1,8 @@
+@"
+pandas
+SQLAlchemy
+psycopg2-binary
+pyspark
+python-dotenv
+streamlit
+"@ | Set-Content requirements.txt
