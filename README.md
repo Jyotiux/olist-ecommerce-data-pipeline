@@ -8,6 +8,18 @@ The pipeline reads raw Olist e-commerce CSV files, cleans and validates the data
 
 A PySpark implementation of the transformation logic is also included and verified against the Pandas implementation.
 
+## Dashboard Preview
+
+The project includes a Streamlit dashboard connected to PostgreSQL, providing an interactive view of key e-commerce metrics and analytics.
+
+### Overview
+
+![E-Commerce Analytics Dashboard](assets/dashboard-overview.png)
+
+### Analytics
+
+![E-Commerce Analytics Dashboard - Analytics](assets/dashboard-analytics.png)
+
 ## Architecture
 
 ```text
